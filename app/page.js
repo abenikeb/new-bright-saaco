@@ -18,7 +18,7 @@ import Skills from "@/components/home-personal/Skills";
 import Portfolio from "@/components/home-personal/Portfolio";
 
 export const metadata = {
-	title: "Rasynergy",
+	title: "Bright Sacco",
 	icons: {
 		icon: "/assets/imgs/favicon.ico",
 		shortcut: "/assets/imgs/favicon.ico",
